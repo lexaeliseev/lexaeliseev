@@ -7,5 +7,5 @@
 
 ### Как связаться со мной:
 - **Email**: [lexaeliseev@gmail.com](mailto:lexaeliseev@gmail.com)
-- **LinkedIn**: [Ваш профиль на LinkedIn](https://www.linkedin.com/in/lexaeliseev/)
-- **Telegram**: [@lexaeliseev](https://t.me/lexaeliseev)
+- **LinkedIn**: [Aleksey Eliseev](https://www.linkedin.com/in/lexaeliseev/)
+- **Telegram**: [@lexaeliseev](https://t.me/lexaeliseev) - предпочтительный способ связи
