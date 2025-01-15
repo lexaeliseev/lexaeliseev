@@ -9,7 +9,7 @@
 <a href="https://t.me/lexaeliseev"><img src="source/Telegram.svg" width="40" height="40" style="vertical-align: middle;"></a>
 
 🛠️ Языки и инструменты:
-<img src="source/python.png" width="60" height="40" style="vertical-align: middle;">
+<img src="source/python.png" width="40" height="32" style="vertical-align: middle;">
 <img src="source/pycharm.png" width="40" height="32" style="vertical-align: middle;">
 <img src="source/github.png" width="60" height="32" style="vertical-align: middle;">
 <img src="source/pytest.png" width="40" height="32" style="vertical-align: middle;">
