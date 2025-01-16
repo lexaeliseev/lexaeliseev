@@ -5,7 +5,7 @@
 📝 Работаю ручным тестировщиком более 3 лет, но также имею опыт в автотестах. Интересуюсь направлением автоматизации тестирования.
 
 📬 Как меня найти:
-<a href="https://www.linkedin.com/in/lexaeliseev/"><img src="source/linkedin.webp" width="40" height="40" style="vertical-align: middle;"></a>
+<a href="https://www.linkedin.com/in/lexaeliseev/"><img src="source/linkedin.webp" width="35" height="40" style="vertical-align: middle;"></a>
 <a href="https://t.me/lexaeliseev"><img src="source/Telegram.svg" width="40" height="40" style="vertical-align: middle;"></a>
 
 🛠️ Языки и инструменты:
